@@ -1,6 +1,6 @@
 const addTwoArguments = (num, num2
 ) => {
-    console.log((num + num2) * 2);
+    console.log(num ** 2);
 }
 
-addTwoArguments(30, 20);
+addTwoArguments(10);
