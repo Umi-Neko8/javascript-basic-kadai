@@ -1,5 +1,4 @@
-const addTwoArguments = (num, num2
-) => {
+const addTwoArguments = (num) => {
     console.log(num ** 2);
 }
 
